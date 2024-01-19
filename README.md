@@ -9,7 +9,7 @@ This repository contains the task that I completed while working as an intern fo
 - **Internship Type** - Work from Home
 
 
-[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](www.youtube.com)
+[<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Youtube-512.png>](https://www.youtube.com/watch?v=GYUokKXU-gs)
 [<img align = right height = 50 width = 50 src = https://cdn4.iconfinder.com/data/icons/project-management-4-2/65/161-512.png>](https://github.com/AnshKumar200/banking-system/blob/master/app.js)
 
 
